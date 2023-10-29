@@ -1,5 +1,4 @@
 node_modules
 .vscode/
-.eslintcache
-build
-jest_html_reporters.html
+dist/
+production/
